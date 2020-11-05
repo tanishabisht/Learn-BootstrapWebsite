@@ -1,0 +1,44 @@
+* {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    background-color: light;
+}
+
+.bg-height{
+    min-height: 100vh;
+}
+
+.height-80{
+    min-height: 80vh;
+}
+
+.height-120{
+    min-height: 120vh;
+}
+
+.height-30{
+    min-height: 30vh;
+}
+
+.square{
+    height: 10px;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.about-picture{
+    background: url(./Images/1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#bg-img{
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)), url(./Images/3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
